@@ -6,3 +6,4 @@ The story can be found here: https://ayukaak.github.io/Citibike/
 
 3. Zip_and_total_Capacity is a csv file I created from step 1 that was merged into step 2 to create a "master" file
 
+Citi Bike system data: https://ride.citibikenyc.com/system-data
