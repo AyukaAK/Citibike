@@ -1,4 +1,4 @@
-The story can be found here: https://ayukaak.github.io/Citibike/
+My story can be found here: https://ayukaak.github.io/Citibike/
 
 1. Citibike_Capacities_Zipcode contains the live station data from July 3, 2022 - json file from one day - This file analyzes the capacity (the number of docks) in each station. Since it does not change unless new bikes or stations are added, I just saved it once
 
