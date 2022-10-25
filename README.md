@@ -1,12 +1,18 @@
 # Are New Yorkers swapping Yellow Cab with Citi Bike?
-The story can be found here: https://ayukaak.github.io/Citibike/
+Link: https://ayukaak.github.io/Citibike/
+
+### Data collection/analysis/visualization:
+1) JSON files for the live availability of Citi bikes in all stations in NYC were saved every 10 min for 24h. The master file “Station_Status_July_5” was created. <br>
+2) Saved another JSON file providing geo-coordinates of each Citi bike station. Using reverse geocoding, the zipcode of each station was added to the master file. <br>
+3) Data analysis with Pandas library using Python. Data visualization using Datawrapper. <br>
 
 ### Files:
-1. Station_Status_July_5 contains the live station data from July 5, 2022 - json files were saved every 10 min for 24h - This file analyzes the live availability of citibikes in all stations in and around NYC
+- Station_Status_July_5 (master file): The live station data from July 5, 2022. 
 
-2. Citibike_Capacities_Zipcode contains the station capacity data as of July 3, 2022 - This file analyzes the capacity (the number of docks) in each station. 
+- Citibike_Capacities_Zipcode: the station capacity data as of July 3, 2022
 
-3. Zip_and_total_Capacity is a csv file I created by merging the data from 1 and 2 with station ID
+- Zip_and_total_Capacity: the master csv file
+
 
 
 ### Data sources:
