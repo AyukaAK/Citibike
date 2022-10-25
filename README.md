@@ -6,14 +6,6 @@ Link: https://ayukaak.github.io/Citibike/
 2) Saved another JSON file providing geo-coordinates of each Citi bike station. Using reverse geocoding, the zipcode of each station was added to the master file. <br>
 3) Data analysis with Pandas library using Python. Data visualization using Datawrapper. <br>
 
-### Files:
-- Station_Status_July_5 (master file): The live station data from July 5, 2022. 
-
-- Citibike_Capacities_Zipcode: the station capacity data as of July 3, 2022
-
-- Zip_and_total_Capacity: the master csv file
-
-
 
 ### Data sources:
 
